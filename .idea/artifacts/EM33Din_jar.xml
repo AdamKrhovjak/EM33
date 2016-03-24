@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EM33Din:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EM33Din_jar</output-path>
+    <root id="archive" name="EM33Din.jar">
+      <element id="module-output" name="EM33Din" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/company/vrvs/em33din/libs/RXTXcomm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
